@@ -30,8 +30,7 @@ The extension adds controls to the Worklist plugin toolbar:
 ```
 [Standard Worklist Toolbar] | [All] [New] [Queue] [Active] [Hold] | [Sort: SFC ▼] [↑↓] [🗑️]
 ```
-<img width="1914" height="556" alt="image" src="https://github.com/user-attachments/assets/c3a641d5-0e1f-4635-a763-4f742e2848e4" />
-
+<img width="1911" height="398" alt="image" src="https://github.com/user-attachments/assets/715959e5-5a39-4080-b4bf-e78b71927aa4" />
 
 ## Installation
 
@@ -118,7 +117,6 @@ worklistfilterandsort.zip
 6. Verify the extension appears in the list as **Type: Extension** (not Plugin/Component)
 
 <img width="1917" height="694" alt="image" src="https://github.com/user-attachments/assets/b222d337-a23f-4dc2-93f4-933898f9aa34" />
-
 
 ### Step 5: Verify Installation
 
