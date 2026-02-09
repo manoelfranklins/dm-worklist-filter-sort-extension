@@ -1,0 +1,15 @@
+{
+    "components": [],
+    "extensions": [
+        {
+            "provider": "sap/dm/custom/plugin/worklistfilterandsort/ExtensionProvider",
+            "controller": "sap.dm.dme.plugins.worklistPlugin",
+            "inclusions": [
+                {
+                    "pods": ["CUSTOMPOD1"],
+                    "plants": ["1710"]
+                }
+            ]
+        }
+    ]
+}
