@@ -35,11 +35,11 @@ The extension adds controls to the Worklist plugin toolbar:
 ## Installation
 
 ### Prerequisites
-- SAP Digital Manufacturing Cloud subscription
+- SAP Digital Manufacturing subscription
 - Access to POD Designer with Custom Plugins permissions
 - A POD with the standard Worklist plugin configured
 
-### Step 1: Download
+### Step 1: Download the Plugin
 Clone or download this repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/dm-worklist-filter-sort-extension.git
@@ -107,14 +107,14 @@ worklistfilterandsort.zip
 ### Step 4: Upload to SAP DM
 
 1. Open **SAP Digital Manufacturing**
-2. Navigate to **POD Designer** → **Custom Plugins**
-3. Click **Upload** or **Create**
+2. Navigate to **POD Designer** → **Extensions**
+3. Click **Create**
 4. **Namespace:** `sap.dm.custom.plugin.worklistfilterandsort`
    
    ⚠️ **Important:** The namespace must be exactly `sap.dm.custom.plugin.worklistfilterandsort`
    
 5. Select your ZIP file and upload
-6. Verify the extension appears in the list as **Type: Extension** (not Plugin/Component)
+6. Verify the extension appears in the list
 
 <img width="1917" height="694" alt="image" src="https://github.com/user-attachments/assets/b222d337-a23f-4dc2-93f4-933898f9aa34" />
 
