@@ -232,30 +232,14 @@ The extension logs debug messages to the browser console. Look for messages pref
 |---------|------|---------|
 | 1.0.0 | 2026-02-09 | Initial release |
 
-## Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## 👨‍💻 Author
 
-- SAP Digital Manufacturing Extension Samples: [dm-coreplugin-extensions](https://github.com/SAP-samples/digital-manufacturing-extension-samples)
-- SAP UI5 Documentation
-
-## Support
-
-For issues and questions:
-- Open a [GitHub Issue](https://github.com/YOUR_USERNAME/dm-worklist-filter-sort-extension/issues)
-- Check SAP DM documentation for extension development
+Manoel Costa
+http://manoelcosta.com/
 
 ---
 
